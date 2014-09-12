@@ -1,4 +1,4 @@
 Kapanmayan-Saka-Virusu
 ======================
 
-Bu virüs zararsızdır. Kapatmak için: Görev Yöneticisi -> Hizmetler -> "wscript" adlı hizmeti  delete ediniz.
+This virus is harmless. To close the Task Manager -> Services -> "WScript"'s sure to delete the service.
